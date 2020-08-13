@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#fc6" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="App">
+    <g>
+      <rect x="25.88075" y="31.1173" width="23.23849" height="19.20047" fill="#fff"/>
+      <path d="M24.6861,23.59295H28.481v3.787H32.2975V23.6026H42.67692v3.782h3.816v-3.7864h3.821V51.40705H24.6861Zm1.08459,26.72482H49.213V31.24046H25.77069Z" transform="translate(0 0)"/>
+    </g>
+    <rect x="5.72755" y="36.28169" width="7.79528" height="7.79528"/>
+    <rect x="15.20683" y="36.28169" width="7.79528" height="7.79528" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <g>
+      <line x1="23.0021" y1="40.17933" x2="32.78993" y2="40.17933" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polygon points="31.386 42.031 32.172 40.179 31.386 38.328 35.775 40.179 31.386 42.031"/>
+    </g>
+    <g>
+      <line x1="50.3139" y1="40.17933" x2="54.61671" y2="40.17933" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polygon points="53.212 42.031 53.999 40.179 53.212 38.328 57.602 40.179 53.212 42.031"/>
+    </g>
+    <rect x="58.87716" y="36.28169" width="7.79528" height="7.79528" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="30.36421" y1="26.65994" x2="30.36421" y2="18.27035" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="44.58242" y1="26.65994" x2="44.58242" y2="18.27035" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#cf9" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="management">
+    <g id="cloud">
+      <g>
+        <path d="M21.52168,57.10865a14.65223,14.65223,0,0,1-1.48449-29.1395A3.46866,3.46866,0,0,0,22.603,26.37191c4.58131-6.31115,10.86387-9.245,18.56441-8.31031,7.80684.94758,13.113,5.48681,16.02089,12.771a2.72756,2.72756,0,0,0,1.81348,1.8908,12.5153,12.5153,0,0,1-3.77354,24.37611" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+        <line x1="21.52168" y1="57.10865" x2="55.22822" y2="57.09947" stroke="#000" stroke-miterlimit="10"/>
+      </g>
+    </g>
+    <g>
+      <rect x="40.45196" y="36.05492" width="17.69998" height="23.55562" fill="#cf9" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="46.77338" y="34.75098" width="5.05714" height="2.39549" fill="#cf9" stroke="#000" stroke-miterlimit="10"/>
+      <line x1="42.53692" y1="41.40511" x2="56.06698" y2="41.40511" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="42.53692" y1="44.2797" x2="56.06698" y2="44.2797" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="42.53692" y1="47.15428" x2="56.06698" y2="47.15428" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="42.53692" y1="50.02886" x2="56.06698" y2="50.02886" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="42.53692" y1="52.90345" x2="56.06698" y2="52.90345" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="42.53692" y1="55.77803" x2="56.06698" y2="55.77803" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polyline points="53.793 39.991 54.624 40.784 56.549 39.01" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polyline points="53.955 46.114 54.785 46.907 56.711 45.132" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polyline points="53.82 43.233 54.651 44.026 56.576 42.251" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+    <g>
+      <line x1="16.1685" y1="34.12858" x2="33.83779" y2="34.12858" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="16.1685" y1="40.38405" x2="33.83779" y2="40.38405" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="16.1685" y1="46.63952" x2="33.83779" y2="46.63952" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <rect x="25.94628" y="32.70426" width="2.75241" height="2.75241"/>
+      <rect x="19.96428" y="39.0271" width="2.75241" height="2.75241"/>
+      <rect x="30.78705" y="45.12858" width="2.75241" height="2.75241"/>
+    </g>
+  </g>
+</svg>

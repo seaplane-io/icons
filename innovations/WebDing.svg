@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75.00029">
+  <g id="shapes">
+    <path id="seaplane" d="M68.39,1.5H6.61A5.07879,5.07879,0,0,0,1.5,6.6V52.19a5.09586,5.09586,0,0,0,2.72,4.52L35.17,72.93a5.02678,5.02678,0,0,0,4.65,0L70.78,56.7a5.10738,5.10738,0,0,0,2.72-4.52V6.6A5.07879,5.07879,0,0,0,68.39,1.5Z" transform="translate(0 0.00029)" fill="#6acff6" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="seaplane-2" data-name="seaplane">
+    <path id="waves" d="M61.85,50.33s-8.48,9.76-16.74-.07c0,0-7.14,9.83-15.4,0-8.27,9.83-16.46.37-16.46.37" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="12.01" y1="23.37029" x2="62.96" y2="23.37029" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+    <circle cx="37.49" cy="26.06029" r="10.47" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <circle cx="28.15" cy="41.57029" r="3.15" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+    <circle cx="47.9" cy="41.57029" r="3.15" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5"/>
+    <circle cx="37.49" cy="26.06029" r="16.33" fill="#fff" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.5" opacity="0.4" style="isolation: isolate"/>
+  </g>
+</svg>

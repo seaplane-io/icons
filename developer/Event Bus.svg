@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#fc6" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="App">
+    <g id="event_bus" data-name="event bus">
+      <line x1="12.78178" y1="37.01037" x2="63.55432" y2="37.01037" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="25.96627" y="32.21025" width="23.23849" height="19.20047" fill="#fff"/>
+      <g>
+        <path d="M24.6861,24.6859H28.481v3.787H32.2975V24.69555H42.67692v3.782h3.816V24.69112h3.821V52.5H24.6861Zm1.08459,26.72482H49.213V32.33341H25.77069Z" transform="translate(0 0)"/>
+        <path d="M29.59232,22.50037h1.602v4.87768h-1.602Z" transform="translate(0 0)"/>
+        <path d="M43.79,22.5H45.3915v4.87772H43.79Z" transform="translate(0 0)"/>
+      </g>
+      <rect x="7.98166" y="32.21025" width="9.60024" height="9.60024" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="57.69988" y="32.21025" width="9.60024" height="9.60024" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <path d="M62.5,46.06121v1.676a12.03528,12.03528,0,0,1-12,12h-26a12.03528,12.03528,0,0,1-12-12v-1.676" transform="translate(0 0)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M62.5,46.06121" transform="translate(0 0)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M62.5,29.33682" transform="translate(0 0)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M12.5,29.19507V27.2628a12.03528,12.03528,0,0,1,12-12h26a12.03528,12.03528,0,0,1,12,12v2.074" transform="translate(0 0)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <rect x="32.69988" y="54.93708" width="9.60024" height="9.60024" stroke="#000" stroke-miterlimit="10"/>
+    <rect x="32.69988" y="10.46269" width="9.60024" height="9.60024" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+</svg>

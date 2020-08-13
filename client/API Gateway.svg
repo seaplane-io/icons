@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#ff9" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="mobile">
+    <path d="M54.81,50.31c5.67-.89,8.11-3.62,8.87-8.68a10.88765,10.88765,0,0,0-7.32-12.32,2.38851,2.38851,0,0,1-1.59-1.66c-2.55-6.39-7.21-10.38-14.06-11.21-6.76-.82-12.27,1.75-16.29,7.29a3.04946,3.04946,0,0,1-2.25,1.4A12.73389,12.73389,0,0,0,11.19,38.72c.34,6.44,3.47,10.5,9.6,11.58" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M53.06,50.71" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <polyline points="30.45 56.48 25.18 50.82 30.6 45.8" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <polyline points="46.25 56.48 51.52 50.82 46.1 45.8" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="34.76" y1="58.8" x2="42.44" y2="43.21" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+</svg>

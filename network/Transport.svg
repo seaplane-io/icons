@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 74.995">
+  <g id="shapes">
+    <path d="M1.5,22.27V52.72A5.02513,5.02513,0,0,0,4.25,57.2L35.23,72.95a5.00035,5.00035,0,0,0,4.55,0L70.75,57.2a5.04366,5.04366,0,0,0,2.75-4.48V22.27a5.02513,5.02513,0,0,0-2.75-4.48L39.78,2.05a5.00035,5.00035,0,0,0-4.55,0L4.25,17.8A4.99881,4.99881,0,0,0,1.5,22.27Z" transform="translate(0 -0.0025)" fill="#969" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="transport">
+    <circle cx="19.43" cy="53.0475" r="5.06" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <circle cx="54.53" cy="53.0475" r="5.06" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="6.25" y1="44.2175" x2="69.37" y2="44.2175" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <rect x="46.83" y="20.5975" width="18.66" height="22.1"/>
+    <circle cx="19.43" cy="53.0475" r="0.54"/>
+    <rect x="51.03" y="23.8075" width="14.46" height="7.84" fill="#fff"/>
+    <circle cx="54.53" cy="53.0475" r="0.54"/>
+  </g>
+</svg>

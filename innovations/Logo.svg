@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75.00029">
+  <g id="shapes">
+    <path id="seaplane" d="M68.39,1.5H6.61A5.07879,5.07879,0,0,0,1.5,6.6V52.19a5.09586,5.09586,0,0,0,2.72,4.52L35.17,72.93a5.02678,5.02678,0,0,0,4.65,0L70.78,56.7a5.10738,5.10738,0,0,0,2.72-4.52V6.6A5.07879,5.07879,0,0,0,68.39,1.5Z" transform="translate(0 0.00029)" fill="#6bcef5" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="seaplane-2" data-name="seaplane">
+    <g>
+      <g id="plane">
+        <path d="M28.82,24.35H10.72c-1.4,0-3.89-1.11-3.89-2.5l-.39-.83c0-1.4,2.88-1.72,4.28-1.72l19.78.08" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M47.02,19.29l17.57.03c1.4,0,3.8.49,3.8,1.89l-.73,1.87c-.87,1.29-1.68,1.29-3.07,1.29l-15.35-.03" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M34.43,37.37c0,2.27-1.4,6.11-4.53,7.36-6.38,2.56-14.46-.06-14.46-2.32,0-2.27,2.65-2.42,9.48-3.19C30.99,38.53,34.43,35.1,34.43,37.37Z" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M44.48,36.12c0,2.27,1.28,7.36,4.41,8.62,6.38,2.56,11.94-.26,11.94-2.53s-.5-.66-6.97-2.99C48,37.1,44.48,33.85,44.48,36.12Z" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M42.12,15.71a10.42317,10.42317,0,0,1,7.02,11.55" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M28.87,28.58a10.44056,10.44056,0,0,1,5.95-12.59" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M45.6,33.54A10.3964,10.3964,0,0,1,38.18,36a10.159,10.159,0,0,1-4.49-1.36" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      </g>
+      <g id="prop">
+        <path d="M43.16,24.99a4.17209,4.17209,0,1,1-4.17-4.04A4.10927,4.10927,0,0,1,43.16,24.99Z" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M34.98,14.67c0,2.84.86,5.3,2.12,6.51a5.09108,5.09108,0,0,1,3.69-.14c1.18-1.26,1.1-4.04,1.1-6.77,0-4.04-.87-6.91-3.02-6.91-2.14,0-3.89,3.27-3.89,7.31" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M27.9,29.27c-1.65.95-5.68,3.83-4.12,6.52,1.08,1.86,4.78,1.73,8.28-.29" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M32.06,35.5c3.45-1.99,5.41-5.09,4.42-6.96a4.4416,4.4416,0,0,1-1.16-1.04c-1.64-.74-4.76.22-7.46,1.78" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+        <path d="M49.34,27.51c-2.14-1.23-4.54-2.72-6.18-2.52a3.53443,3.53443,0,0,1-1.94,3.42,11.23723,11.23723,0,0,0,4.72,4.96c3.5,2.02,7.21,2.15,8.28.29C55.29,31.79,52.84,29.53,49.34,27.51Z" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      </g>
+      <path id="waves" d="M66.59,49.65S56.47,61.3,46.6,49.57c0,0-8.52,11.74-18.39,0C18.33,61.3,8.55,50,8.55,50" transform="translate(0 0.00029)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    </g>
+  </g>
+</svg>

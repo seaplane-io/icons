@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#ff9" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="event">
+    <g id="event-2">
+      <g>
+        <rect x="21.3" y="30.1" width="32.6" height="27" fill="#fff"/>
+        <g>
+          <path d="M19.5,19.5h5.3v5.3h5.4V19.5H44.8v5.3h5.4V19.5h5.4V58.6h-36V19.5ZM21,57H54V30.2H21Z"/>
+          <path d="M26.4,16.4h2.3v6.9H26.4Z"/>
+          <path d="M46.3,16.4h2.2v6.9H46.3Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

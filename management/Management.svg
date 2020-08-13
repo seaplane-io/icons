@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#cf9" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="management">
+    <rect x="18.64961" y="12.41339" width="37.70079" height="50.17323" fill="#cf9" stroke="#000" stroke-miterlimit="10"/>
+    <rect x="32.11417" y="9.63602" width="10.77165" height="5.10236" fill="#cf9" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="23.09055" y1="23.80925" x2="51.90945" y2="23.80925" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="23.09055" y1="29.93208" x2="51.90945" y2="29.93208" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="23.09055" y1="36.05492" x2="51.90945" y2="36.05492" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="23.09055" y1="42.17775" x2="51.90945" y2="42.17775" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="23.09055" y1="48.30059" x2="51.90945" y2="48.30059" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line x1="23.09055" y1="54.42342" x2="51.90945" y2="54.42342" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="47.066 20.798 48.835 22.487 52.937 18.707" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="47.41 33.839 49.179 35.527 53.281 31.748" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="47.124 27.702 48.893 29.391 52.995 25.611" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>

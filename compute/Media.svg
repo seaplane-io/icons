@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <path id="square" d="M73.5,70.13a3.16553,3.16553,0,0,1-2.92,3.37H4.42A3.17186,3.17186,0,0,1,1.5,70.13V4.87A3.17186,3.17186,0,0,1,4.42,1.5H70.58A3.17186,3.17186,0,0,1,73.5,4.87Z" fill="#69c" stroke="#000" stroke-miterlimit="10" stroke-width="3" fill-rule="evenodd"/>
+  </g>
+  <g id="Layer_55" data-name="Layer 55">
+    <path d="M65.94,60H9.06a2.00588,2.00588,0,0,1-2-2V17a2.00588,2.00588,0,0,1,2-2H65.94a2.00588,2.00588,0,0,1,2,2V58A2.00588,2.00588,0,0,1,65.94,60Z"/>
+    <rect x="10.52" y="16.78" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="22.54" y="16.78" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="34.57" y="16.78" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="46.59" y="16.78" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="58.61" y="16.78" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="10.52" y="52.35" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="22.54" y="52.35" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="34.57" y="52.35" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="46.59" y="52.35" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="58.61" y="52.35" width="5.87" height="5.87" fill="#fff"/>
+    <rect x="10.52" y="24.81" width="53.95" height="25.37" fill="#fff"/>
+    <polyline points="31.99 26.5 48.88 37.11 32.76 48.5"/>
+  </g>
+</svg>

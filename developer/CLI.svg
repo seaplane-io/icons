@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 75">
+  <g id="shapes">
+    <circle cx="37.5" cy="37.5" r="36" fill="#fc6" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="command_line" data-name="command line">
+    <g>
+      <rect x="12.60236" y="16.33465" width="49.79528" height="42.33071"/>
+      <rect x="12.60236" y="16.33465" width="49.79528" height="4.16752" fill="#fff"/>
+      <line x1="59.41983" y1="19.18676" x2="60.95654" y2="17.65005" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.2"/>
+      <line x1="59.41983" y1="17.65005" x2="60.95654" y2="19.18676" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.2"/>
+      <rect x="54.59136" y="17.62027" width="1.7" height="1.7" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="0.2"/>
+      <line x1="49.19212" y1="18.54153" x2="51.19212" y2="18.54153" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.2"/>
+    </g>
+    <g>
+      <path d="M24.80739,36.14628l-4.26953-2.83057a.75179.75179,0,0,1-.41992-.63525.66759.66759,0,0,1,.63574-.64795.91035.91035,0,0,1,.4917.18017l4.9414,3.28614c.26368.168.45557.312.44336.64746,0,.34814-.17968.48-.44336.648L21.2571,40.06815a.93782.93782,0,0,1-.51563.2041.66769.66769,0,0,1-.62353-.65966.707.707,0,0,1,.396-.61182Z" fill="#fff"/>
+      <path d="M36.32546,41.7952v1.19922H27.6902V41.7952Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

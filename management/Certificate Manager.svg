@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75 74.87843">
+  <g id="shapes">
+    <path id="shield" d="M73.5,10.30818c-13.63072,8.709-22.84331,1.73259-36-8.51938-12.63859,11.38583-21.426,17.51181-36,8.518V51.89243a5.1014,5.1014,0,0,0,2.72107,4.52212L35.17573,72.639a5.00668,5.00668,0,0,0,4.64853,0L70.77892,56.41455A5.10139,5.10139,0,0,0,73.5,51.89243Z" transform="translate(0 0.16723)" fill="#f99" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+  <g id="security">
+    <g>
+      <rect x="21.68862" y="17.78982" width="31.62276" height="42.08442" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+      <rect x="32.98246" y="15.46022" width="9.03507" height="4.27977" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+      <line x1="25.41361" y1="27.34847" x2="49.58639" y2="27.34847" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="25.41361" y1="32.4842" x2="49.58639" y2="32.4842" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="25.41361" y1="37.61992" x2="49.58639" y2="37.61992" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="25.41361" y1="42.75565" x2="49.58639" y2="42.75565" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="25.41361" y1="47.89137" x2="49.58639" y2="47.89137" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <line x1="25.41361" y1="53.0271" x2="49.58639" y2="53.0271" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+      <polyline points="45.524 24.822 47.008 26.239 50.448 23.069" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    </g>
+    <circle cx="28.64094" cy="23.59852" r="2.17323" fill="#cf9" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="28.027 25.772 27.2 30.284 27.082 30.331 25.161 29.469 28.027 25.772" fill="#cf9" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+    <polyline points="29.663 25.642 32.231 29.079 29.987 30.496 29.396 25.635" fill="#cf9" stroke="#000" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>
